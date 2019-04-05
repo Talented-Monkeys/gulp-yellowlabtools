@@ -2,16 +2,16 @@
   "name": "gulp-yellowlabtools",
   "description": "Gulp plugin for YellowLabTools",
   "version": "1.0.0",
-  "homepage": "https://github.com/ramrudra/gulp-yellowlabtools",
+  "homepage": "https://github.com/Talented-Monkeys/gulp-yellowlabtools",
   "author": {
     "name": "Ram Rudra",
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramrudra/gulp-yellowlabtools.git"
+    "url": "https://github.com/Talented-Monkeys/gulp-yellowlabtools.git"
   },
   "bugs": {
-    "url": "https://github.com/ramrudra/gulp-yellowlabtools/issues"
+    "url": "https://github.com/Talented-Monkeys/gulp-yellowlabtools/issues"
   },
   "engines": {
     "node": ">= 0.8.0"
